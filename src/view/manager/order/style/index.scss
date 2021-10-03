@@ -1,0 +1,17 @@
+.ManagerOrder{
+    .color-div{
+        width: 50px;
+        height: 20px;
+    }
+    .short-input{
+        width: 80px;
+    }
+    .shipment{
+        margin: auto;
+        width: 95%;
+        margin-bottom: 20px;
+        .ship-id{
+            color:#007eff;
+        }
+    }
+}
